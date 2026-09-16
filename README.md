@@ -1,16 +1,12 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
 # 👋 Olá, eu sou Gabriel Schraider!
 
 ### 🤖 Inteligência Artificial • Machine Learning • Data Science
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Inteligência+Artificial;Explorando+Machine+Learning;Desenvolvendo+projetos+com+Python;Deep+Learning+%7C+Computer+Vision;Transformando+problemas+em+projetos+%F0%9F%A7%A0" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudante+de+Intelig%C3%AAncia+Artificial;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Data+Science;Construindo+projetos+com+Python+%F0%9F%90%8D" />
 
-<br>
-
-📍 **Toledo - PR, Brasil**
+📍 Toledo - PR, Brasil
 
 </div>
 
@@ -20,148 +16,104 @@
 
 🎓 Estudante do **4º semestre de Inteligência Artificial**
 
-🤖 Interessado em **Machine Learning, Deep Learning e Ciência de Dados**
+🤖 Interesse em **Machine Learning, Deep Learning e Ciência de Dados**
 
-🐍 Desenvolvendo projetos utilizando **Python**
+🐍 Desenvolvimento de projetos utilizando **Python**
 
-🩻 Explorando **Inteligência Artificial aplicada a imagens médicas**
+🩻 Pesquisa em **Inteligência Artificial aplicada a imagens médicas**
 
-🌱 Desenvolvendo soluções de **Visão Computacional aplicada ao agronegócio**
+🌱 Projetos de **Visão Computacional aplicada ao agronegócio**
 
-📊 Interesse em **análise de dados e Business Intelligence**
-
-💡 Atualmente focado em transformar conhecimento acadêmico em **projetos práticos**.
+📊 Interesse em **Análise de Dados e Business Intelligence**
 
 ---
 
-## ⚡ Tecnologias & Conhecimentos
+## 🚀 Tecnologias
 
 ### 🐍 Linguagem
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 Inteligência Artificial
+### 🤖 Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Machine Learning • Deep Learning • CNN • CNN 3D • YOLO • Computer Vision**
+### 📚 Bibliotecas
 
-### 📊 Data Science
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 🧠 Técnicas
 
-**NumPy • pandas • Matplotlib • scikit-learn • SQL • Power BI**
+`Machine Learning` • `Deep Learning` • `CNN` • `CNN 3D`  
+`Computer Vision` • `Processamento de Imagens` • `YOLO`
+
+### 📊 Dados & BI
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🛠️ Ferramentas
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,jupyter" />
-</p>
-
-**Google Colab • Kaggle • Jupyter Notebook • Git • GitHub • Linux**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 # 🔬 Projetos & Pesquisas
 
-<table>
-<tr>
+### 🫁 LUNA16 — Inteligência Artificial em Imagens Médicas
 
-<td width="50%">
+Pesquisa envolvendo **Deep Learning e processamento de imagens médicas** para análise de tomografias computadorizadas.
 
-### 🫁 LUNA16 — Imagens Médicas
-
-Pesquisa envolvendo **Inteligência Artificial aplicada à análise de tomografias computadorizadas**.
-
-🔹 Dataset LUNA16  
-🔹 Processamento de imagens médicas  
-🔹 Deep Learning  
-🔹 CNN 3D  
-🔹 Análise de falsos positivos  
-
-</td>
-
-<td width="50%">
-
-### 🌱 Doenças em Folhas de Soja
-
-Projeto de **Visão Computacional aplicada ao agronegócio**.
-
-🔹 Classificação de imagens  
-🔹 Deep Learning  
-🔹 Treinamento de modelos  
-🔹 Avaliação de resultados  
-🔹 Análise de distribuição dos dados  
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏗️ Lambda Architecture
-
-Pesquisa sobre arquitetura de dados aplicada a **Machine Learning**.
-
-🔹 Batch Processing  
-🔹 Real-Time Processing  
-🔹 Data Pipelines  
-🔹 Machine Learning  
-🔹 Feature Store  
-
-</td>
-
-<td width="50%">
-
-### 📊 Ciência de Dados
-
-Estudos e projetos envolvendo:
-
-🔹 Python  
-🔹 SQL  
-🔹 Análise de dados  
-🔹 Visualização  
-🔹 Power BI  
-🔹 Machine Learning  
-
-</td>
-
-</tr>
-</table>
+**Tecnologias:** Python • PyTorch • CNN 3D • LUNA16
 
 ---
 
-# 📈 GitHub Stats
+### 🌱 Classificação de Doenças em Folhas de Soja
+
+Projeto de **Visão Computacional e Deep Learning** para classificação de doenças em imagens de folhas de soja.
+
+**Tecnologias:** Python • YOLO • Deep Learning • Computer Vision
+
+---
+
+### 🏗️ Lambda Architecture & Feature Store
+
+Pesquisa sobre **arquiteturas de dados aplicadas a Machine Learning**, explorando processamento batch, processamento em tempo real e Feature Store.
+
+**Tecnologias:** Machine Learning • Data Engineering • Feature Store
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschr4y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschr4y&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧩 Atualmente estudando
+# 📚 Atualmente estudando
 
 ```text
 Python
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Computer Vision
-   ↓
+  ↓
 Data Science
-   ↓
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+Computer Vision
+  ↓
 MLOps
