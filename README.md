@@ -91,17 +91,6 @@ Pesquisa sobre **arquiteturas de dados aplicadas a Machine Learning**, explorand
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gschr4y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gschr4y&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📚 Atualmente estudando
 
