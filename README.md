@@ -151,16 +151,6 @@ Estudos e projetos envolvendo:
 
 ---
 
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🧩 Atualmente estudando
 
 ```text
